@@ -1,8 +1,8 @@
 {
-  "client_id": "https://example.com/oauth/client-metadata.json",
+  "client_id": "https://scavia10.github.io/bsky-oauth-metadata/client-metadata.json",
   "application_type": "web",
   "client_name": "SNS Post Tool V3",
-  "client_uri": "https://example.com",
+  "client_uri": "https://scavia10.github.io/bsky-oauth-metadata/",
   "dpop_bound_access_tokens": true,
   "grant_types": [
     "authorization_code",
