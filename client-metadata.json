@@ -1,6 +1,6 @@
 {
   "client_id": "https://scavia10.github.io/bsky-oauth-metadata/client-metadata.json",
-  "application_type": "web",
+  "application_type": "native",
   "client_name": "SNS Post Tool V3",
   "client_uri": "https://scavia10.github.io/bsky-oauth-metadata/",
   "dpop_bound_access_tokens": true,
@@ -10,7 +10,7 @@
   ],
   "redirect_uris": [
     "http://127.0.0.1:5173/oauth/callback"
-],
+  ],
   "response_types": [
     "code"
   ],
